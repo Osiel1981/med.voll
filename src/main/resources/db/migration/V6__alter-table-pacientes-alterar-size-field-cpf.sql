@@ -1,0 +1,1 @@
+alter table pacientes MODIFY column cpf VARCHAR(11);
